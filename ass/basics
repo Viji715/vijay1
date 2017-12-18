@@ -1,0 +1,3 @@
+int c=100;
+printf("\n%d",c);
+{
